@@ -1,3 +1,3 @@
 <div id="footer">
-© Vida MRR 2018
+© Copyright 2025
 </div>
